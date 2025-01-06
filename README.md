@@ -19,3 +19,4 @@ Check [2425-ETH-NetSec-Exam-Anki](https://github.com/PedroChaps/2024-ETH-NetSec-
 There are some differences to the NetSec version (e.g., due to incompatibility)
 
 - Instead of a lecture deck (e.g., `lec3_1_TEEs`) representing the lecture itself, it represents the matching slide deck. This happens as not all classes were recorded and thus the slide decks are the "main source" of information.
+- The tags start with `System_Security_Exam_2425` (instead of `Network_Security_Exam_2425`)
