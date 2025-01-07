@@ -7,6 +7,7 @@ This repo holds Anki decks for the exam of the SySec course of the 2024-2025 aca
 There are different types of decks: 
 - Normal lectures (`lec<nr1>_<nr2>_<summary>`)
 - Exercises (`ex<nr>_<summary>`)
+- Graded Assignments (`ga<nr>_<summary>`)
 
 This is inspired by NetSec's version: some days ago, I started the exact same repo for the Network Security exam.
 
